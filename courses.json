@@ -1,0 +1,201 @@
+[
+  {
+    "title": "Endodontia",
+    "level": "Especialização",
+    "professors": [
+      "Prof° Gustavo Almeida",
+      "Prof° Leonardo Barroso",
+      "Profª Simone Leal Tosta",
+      "Profª Christiane Valente",
+      "Prof° Antônio Lima"
+    ],
+    "duration": "24 meses",
+    "description": [
+      "Os três melhores alunos saíram da especialização com proposta de trabalho em clínicas parceiras de bom padrão. Os equipamentos endodônticos de alta tecnologia estão todos disponíveis para os alunos durante o curso."
+    ],
+    "methodology": [
+      "Teórica",
+      "Laboratorial",
+      "Prática clínica",
+      "Atendimento ao Paciente"
+    ],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_endodontia.png",
+    "src": "c_endodontia.html",
+    "target": "Cirurgiões-dentistas que desejam se aprofundar na Endodontia, seja para iniciar uma atuação especializada na área ou para aperfeiçoar suas técnicas clínicas. O curso é voltado para profissionais que buscam dominar desde os fundamentos biológicos até os procedimentos mais avançados, com ênfase em instrumentação mecanizada, magnificação, uso de tecnologias como localizadores foraminais, tomografia e irrigação ultrassônica. Ideal para quem busca precisão, previsibilidade e excelência nos tratamentos endodônticos."
+  },
+  {
+    "title": "Ortodontia",
+    "level": "Especialização",
+    "professors": [
+      "Profª Thiara Macedo",
+      "Profª Mª Helena Ocké",
+      "Profª Vanessa Temer"
+    ],
+    "duration": "36 meses",
+    "description": [
+      "Além de abordar as técnicas ortodônticas tradicionais, o curso tem ênfase em alinhadores ortodônticos e na utilização do fluxo digital.",
+      "Os equipamentos ortodônticos de alta tecnologia estão todos disponíveis para os alunos durante o curso."
+    ],
+    "methodology": [
+      "Teórica",
+      "Laboratorial",
+      "Prática clínica",
+      "Atendimento ao Paciente"
+    ],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_ortodontia.png",
+    "src": "c_ortodontia.html",
+    "target": "Cirurgiões-dentistas graduados que desejam se aprofundar na Ortodontia, seja para iniciar sua atuação na área ou para atualizar seus conhecimentos com as abordagens mais modernas do diagnóstico e tratamento ortodôntico. O curso é ideal para profissionais que buscam aliar teoria e prática clínica, com ênfase em fluxo digital, alinhadores transparentes, ortodontia preventiva e interceptativa, além de uma visão integrada das disfunções temporomandibulares."
+  },
+  {
+    "title": "Cirurgia Oral Menor",
+    "level": "Aperfeiçoamento",
+    "professors": ["Roberto Medonça", "William S. Carvalho"],
+    "duration": "148 horas | 6 meses, snedo 2 dias por mês",
+    "description": [
+      "Capacitar cirurgiões-dentistas para realizarem procedimentos de cirurgia oral menor com competência técnica e segurança."
+    ],
+    "methodology": ["Teórica", "Laboratorial", "Atendimento ao paciente"],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_cirurgia_oral_menor.png",
+    "src": "c_cirurgia_oral_menor.html",
+    "target": "Cirurgiões-dentistas que desejam adquirir segurança, técnica e prática clínica nos procedimentos de Cirurgia Oral Menor. Indicado tanto para alunos da graduação, quanto para recém-formados e profissionais que buscam ampliar suas habilidades em exodontias simples e complexas, remoção de terceiros molares, frenectomias, biópsias e outras intervenções ambulatoriais. O curso é ideal para quem quer atuar com mais autonomia, segurança e precisão no dia a dia clínico."
+  },
+  {
+    "title": "Harmonização Orofacial",
+    "level": "Especialização",
+    "professors": ["Dra. Juliana Nunes"],
+    "duration": "",
+    "description": [
+      "O objetivo principal é preparar e inserir o aluno na área da harmonização orofacial, desenvolvendo habilidades práticas, a partir de pilares teóricos e práticos, que orientam aplicações da Toxina Botulínica e Preenchimento Facial com ácido hialurônico.",
+      "O curso busca alunos que entendam que para a prática, os embasamentos teóricos precisam estar muito bem sedimentados. Para isso, abordaremos tópicos importantes, para que com segurança, o aluno tenha domínio da técnica aplicada.",
+      "É um curso ideal, tanto para iniciantes, quanto para profissionais experientes que desejam aprimorar suas habilidades e que desejam expandir suas diversas opções de tratamento."
+    ],
+    "methodology": ["Teórica", "Laboratorial", "Atendimento ao paciente"],
+    "location": "Rua Almirante Barroso, 96B - 1 e 2 andar – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_hof_start.png",
+    "src": "c_harmonização_orofacial.html",
+    "target": "Profissionais de medicina, odontologia e nas mais diversas áreas de saúde no sul da Bahia!"
+  },
+  {
+    "title": "Prótese Dentária (TPD)",
+    "level": "Técnico",
+    "professors": ["Prof. Diego Fabris", "Prof. Jailson Andrade"],
+    "duration": "24 meses",
+    "description": [
+      "Forma profissionais técnicos com excelência para atuar em laboratórios e clínicas odontológicas.",
+      "Aprenda desde primeiros socorros e ética profissional até o domínio de próteses totais, parciais, fixas e aparelhos ortodônticos. Desenvolva habilidades em biossegurança, materiais dentários, gestão de laboratório, anatomia dental e legislação. Com aulas teóricas e práticas, este curso prepara você para o mercado com competência, responsabilidade e inovação."
+    ],
+    "methodology": [
+      "Teórica",
+      "Laboratorial",
+      "Prática clínica",
+      "Atendimento ao Paciente"
+    ],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_tpd.png",
+    "src": "c_prótese_dentária_(tpd).html",
+    "target": "Jovens que concluíram o ensino médio e busca ingressar rapidamente no mercado da saúde bucal. Também é voltado para profissionais da área que desejam se especializar, adultos em transição de carreira ou para aqueles que desejam uma formação técnica, com alta demanda e boas oportunidades de crescimento."
+  },
+  {
+    "title": "AUXILIAR em Saúde Bucal (ASB)",
+    "level": "Técnico",
+    "professors": ["Prof° Leandro Vieira"],
+    "duration": "",
+    "description": [
+      "O curso de Auxiliar de Saúde Bucal é a sua porta de entrada para um futuro profissional de sucesso!", "Com duração de apenas 12 meses, essa formação prática e rápida vai te preparar para atuar lado a lado com dentistas, em clínicas e consultórios, prestando um serviço essencial e valorizado. E o melhor: com alto índice de empregabilidade, você poderá ver seu esforço se transformar em crescimento profissional em pouco tempo."
+    ],
+    "methodology": ["Teórica", "Laboratorial", "Prática clínica"],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_asb.png",
+    "src": "c_auxiliar_em_saúde_bucal_(asb).html",
+    "target": "Pessoas que já atuam ou desejam atuar em consultórios e clínicas odontológicas, auxiliares de dentista que buscam regularizar sua profissão, além de quem possui o ensino fundamental completo e quer se qualificar para ingressar rapidamente no mercado de trabalho."
+  },
+  {
+    "title": "Implante dentário com fluxo digital",
+    "level": "Especialização",
+    "professors": ["Prof° Jenival Almeida Jr", "Prof° Denis Reghini"],
+    "duration": "24 meses",
+    "description": [
+      "O curso oferece treinamento prático em tecnologias de última geração, como scanners intraorais, impressoras 3D e software de design avançado, permitindo que os alunos estejam na vanguarda da odontologia digital."
+    ],
+    "methodology": [
+      "Teórica",
+      "Laboratorial",
+      "Prática clínica",
+      "Atendimento ao Paciente"
+    ],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_implante_dentário_com_fluxo_digital.png",
+    "src": "c_implante_dentário_com_fluxo_digital.html",
+    "target": "Cirurgiões-dentistas que desejam se especializar em Implantodontia, aprimorando seus conhecimentos teóricos e práticos no planejamento, instalação e reabilitação com implantes dentários. O curso é voltado tanto para profissionais que estão iniciando na área quanto para aqueles que desejam atualizar suas técnicas com foco em cirurgia guiada, enxertos, carga imediata e tecnologias digitais aplicadas à implantodontia moderna."
+  },
+  {
+    "title": "Master Facetas",
+    "level": "Imersão",
+    "professors": ["Prof° Igor Magalhães"],
+    "duration": "30 horas",
+    "description": [
+      "Capacitar o cirurgião dentista a confeccionar facetas em resinas e restaurações estéticas de forma simples e com bastante riqueza de detalhes."
+    ],
+    "methodology": ["Teórica", "Laboratorial", "Demonstrativo"],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_master_facetas.png",
+    "src": "c_master_facetas.html",
+    "target": "Profissionais de medicina, odontologia e nas mais diversas áreas de saúde no sul da Bahia!"
+  },
+  {
+    "title": "Gestão e formação empresarial na área da saúde e odontologia",
+    "level": "Imersão",
+    "professors": ["Prof° Eduardo Picanço"],
+    "duration": "16 horas",
+    "description": [
+      "Capacite-se para transformar seu consultório em um negócio lucrativo. Participe da Imersão em Gestão e aprenda, de forma simples e estratégica, a estruturar e escalar sua clínica."
+    ],
+    "methodology": ["Teórica aplicada"],
+    "location": "Rua Almirante Barros, 96 – Centro – Itabuna BA CEP 45.600-290",
+    "image": "/assets/img/professores/prof_gestao_empresarial.png",
+    "src": "c_gestao_empresarial.html",
+    "target": "Profissionais da saúde que desejam desenvolver habilidades estratégicas de gestão e liderança para transformar suas clínicas ou consultórios em negócios de alta performance."
+  },
+  {
+    "title": "Odontopediatria",
+    "level": "Especialização",
+    "professors": [],
+    "duration": "",
+    "description": [],
+    "methodology": [],
+    "location": "Rua Almirante Barroso, 96B - 1 e 2 andar – Centro – Itabuna BA CEP 45.600-290",
+    "image": "",
+    "src": "#!",
+	"target": "Profissionais de medicina, odontologia e nas mais diversas áreas de saúde no sul da Bahia!",
+    "soon": true
+  },
+  {
+    "title": "Tripla Certificação (Implante, Prótese e Dentística)",
+    "level": "Especialização e Aperfeiçoamento",
+    "professors": [],
+    "duration": "",
+    "description": [],
+    "methodology": [],
+    "location": "Rua Almirante Barroso, 96B - 1 e 2 andar – Centro – Itabuna BA CEP 45.600-290",
+    "image": "",
+    "src": "#!",
+	"target": "Profissionais de medicina, odontologia e nas mais diversas áreas de saúde no sul da Bahia!",
+    "soon": true
+  },
+  {
+    "title": "Prótese e Dentística",
+    "level": "Aperfeiçoamento",
+    "professors": [],
+    "duration": "",
+    "description": [],
+    "methodology": [],
+    "location": "Rua Almirante Barroso, 96B - 1 e 2 andar – Centro – Itabuna BA CEP 45.600-290",
+    "image": "",
+    "src": "#!",
+	"target": "Profissionais de medicina, odontologia e nas mais diversas áreas de saúde no sul da Bahia!",
+    "soon": true
+  }
+]
